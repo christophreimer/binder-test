@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.4
+  - datacube
+  - zarr
+  - pip
+  - geopandas
+  - pyresample
+  - rioxarray
+  - pip:
+      - pystac_client
+      - rich
+      - odc-stac
