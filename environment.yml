@@ -13,4 +13,4 @@ dependencies:
       - pystac_client
       - rich
       - odc-stac
-      - destinelab
+      - dedl-stack-client==2024.12.1
